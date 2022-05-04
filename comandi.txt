@@ -1,0 +1,4 @@
+
+git add "nome del file"
+git commit -m "nome del file"
+git push
